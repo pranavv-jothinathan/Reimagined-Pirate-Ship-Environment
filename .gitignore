@@ -1,0 +1,20 @@
+# Maya generated files
+*.swatches
+*.tmp
+*.bak
+*.log
+
+# Maya autosave / temporary data
+autosave/
+cache/
+
+# Generated Arnold texture cache
+*.tx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
