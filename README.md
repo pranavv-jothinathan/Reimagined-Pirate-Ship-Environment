@@ -208,10 +208,3 @@ Potential future improvements include:
 
 
 ## 🖼️ Render Gallery
-
-
-![Environment Details](images/environment-details.jpg)
-
-### Additional View
-
-![Additional Environment View](images/additional-view.jpg)
