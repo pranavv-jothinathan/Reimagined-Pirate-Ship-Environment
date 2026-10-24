@@ -8,7 +8,7 @@ The exterior and overall structure retain the visual identity of a pirate ship, 
 
 The project was developed through 3D modelling, scene composition, material and texture setup, lighting and rendering, with a focus on creating a cohesive environment despite the deliberate contrast between its exterior and interior styles.
 
----
+
 
 ## ✨ Key Features
 
@@ -42,7 +42,7 @@ The project was developed through 3D modelling, scene composition, material and 
 - **HDRI-Based Environment:** A sky/environment texture contributes to the overall lighting setup
 - **Rendered Presentation:** The environment is prepared for rendered visual output using Arnold
 
----
+
 
 ## 🛠️ Technical Specifications
 
@@ -72,7 +72,7 @@ The repository includes the Maya scene and the texture files required by the fin
 - HDRI/environment image
 - Maya workspace configuration
 
----
+
 
 ## 🚀 Project Setup
 
@@ -108,7 +108,7 @@ If required, open:
 
 Check that all referenced texture files are resolved correctly.
 
----
+
 
 ## 📁 Project Structure
 
@@ -174,11 +174,11 @@ The environment combines multiple materials and image-based textures to establis
 - HDRI/environment imagery used as part of the scene presentation
 - Arnold rendering used to evaluate lighting, materials and the overall environment
 
----
+
 
 ## 📝 Credits & Third-Party Assets
 
-Developed as an individual 3D environment project as part of the **MSc Immersive Technologies** programme at the **University of Bristol**.
+Developed as an individual 3D environment project as part of the MSc Immersive Technologies programme at the University of Bristol.
 
 ### Tools
 
@@ -193,7 +193,7 @@ All third-party content remains subject to the licences and terms of use provide
 
 The Maya scene and repository structure have been prepared for portfolio and educational presentation.
 
----
+
 
 ## 🔮 Future Enhancements
 
@@ -203,27 +203,12 @@ Potential future improvements include:
 - Expand the modern interior with additional rooms, furniture and environmental props
 - Improve material consistency and surface detail across the environment
 - Refine UV mapping for selected models and props
-- Enhance lighting and Arnold render quality
-- Improve optimisation of high-resolution textures and scene assets
-- Add additional cinematic camera compositions and rendered views
-- Develop a real-time version of the environment for interactive exploration
-- Explore transferring the environment into Unity or Unreal Engine for an immersive walkthrough
+- Explore transferring the environment into Unity Engine for an immersive walkthrough
 
----
+
 
 ## 🖼️ Render Gallery
 
-Final renders and environment views can be presented here to showcase the contrast between the traditional pirate ship exterior and the modern interior.
-
-### Exterior
-
-![Pirate Ship Exterior](images/pirate-ship-exterior.jpg)
-
-### Modern Interior
-
-![Modern Interior](images/modern-interior.jpg)
-
-### Environment Details
 
 ![Environment Details](images/environment-details.jpg)
 
