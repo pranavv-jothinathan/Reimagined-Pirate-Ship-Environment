@@ -8,6 +8,7 @@ The exterior and overall structure retain the visual identity of a pirate ship, 
 
 The project was developed through 3D modelling, scene composition, material and texture setup, lighting and rendering, with a focus on creating a cohesive environment despite the deliberate contrast between its exterior and interior styles.
 
+<br/>
 
 
 ## ✨ Key Features
@@ -42,6 +43,7 @@ The project was developed through 3D modelling, scene composition, material and 
 - **HDRI-Based Environment:** A sky/environment texture contributes to the overall lighting setup
 - **Rendered Presentation:** The environment is prepared for rendered visual output using Arnold
 
+<br/>
 
 
 ## 🛠️ Technical Specifications
@@ -54,6 +56,7 @@ The project was developed through 3D modelling, scene composition, material and 
 - **Texture Management:** Maya `sourceimages` workflow with relative project paths
 - **Primary Scene:** `scenes/Project.mb`
 
+<br/>
 
 ## 📋 Requirements
 
@@ -72,6 +75,7 @@ The repository includes the Maya scene and the texture files required by the fin
 - HDRI/environment image
 - Maya workspace configuration
 
+<br/>
 
 
 ## 🚀 Project Setup
@@ -108,6 +112,7 @@ If required, open:
 
 Check that all referenced texture files are resolved correctly.
 
+<br/>
 
 
 ## 📁 Project Structure
@@ -144,6 +149,7 @@ Reimagined-Pirate-Ship-Environment/
 
 `images/` is used for rendered outputs and visual documentation of the environment.
 
+<br/>
 
 ## 🏗️ Environment Breakdown
 
@@ -174,6 +180,7 @@ The environment combines multiple materials and image-based textures to establis
 - HDRI/environment imagery used as part of the scene presentation
 - Arnold rendering used to evaluate lighting, materials and the overall environment
 
+<br/>
 
 
 ## 📝 Credits & Third-Party Assets
@@ -193,6 +200,7 @@ All third-party content remains subject to the licences and terms of use provide
 
 The Maya scene and repository structure have been prepared for portfolio and educational presentation.
 
+<br/>
 
 
 ## 🔮 Future Enhancements
@@ -205,6 +213,7 @@ Potential future improvements include:
 - Refine UV mapping for selected models and props
 - Explore transferring the environment into Unity Engine for an immersive walkthrough
 
+<br/>
 
 
-## 🖼️ Render Gallery
+## 🖼️ Gallery
