@@ -215,5 +215,26 @@ Potential future improvements include:
 
 <br/>
 
-
 ## 🖼️ Gallery
+<p align="center">
+  <img src="images/Virtual Environment Design_Final 360 Image.jpg">
+</p>
+<p align="center">
+  <img src="images/PirateShip_Shaded.png" width="48%">
+  <img src="images/PirateShip_Wireframe.png" width="48%">
+</p>
+<p align="center">
+  <img src="images/PirateShip_UV.png" width="48%">
+</p>
+<p align="center">
+  <img src="images/DrinksShelf.png" width="48%">
+  <img src="images/BeerGlass.png" width="48%">
+</p>
+<p align="center">
+  <img src="images/Lamp_Shaded.png" width="48%">
+  <img src="images/PirateShip_InteriorBack.png" width="48%">
+</p>
+<p align="center">
+  <img src="images/Lamp_Wireframe.png" width="48%">
+  <img src="images/Mattress.png" width="48%">
+</p>
